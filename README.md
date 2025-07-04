@@ -1,80 +1,38 @@
-# 💻 Abhishek Sharma
+<h1 align="center">Hi 👋, I'm Abhishek Kumar Sharma</h1>
+<h3 align="center">I'm passionate Game Designer and Busines Analyst</h3>
 
-## 🚀 Game Developer | Startup Founder | Coding Influencer
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=abhisheksharmarj&label=Profile%20views&color=0e75b6&style=flat" alt="abhisheksharmarj" /> </p>
 
-Hey there! I'm **Abhishek Sharma**, a passionate tech enthusiast and entrepreneur from Rajasthan 🇮🇳.  
-I'm currently pursuing **B.Tech (1st Year)** at **RTU**, and I'm already deep into the world of **game development**, **startup building**, and **online content creation**.
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=abhisheksharmarj" alt="abhisheksharmarj" /></a> </p>
 
----
+<p align="left"> <a href="https://twitter.com/abhishekshrmarj" target="blank"><img src="https://img.shields.io/twitter/follow/abhishekshrmarj?logo=twitter&style=for-the-badge" alt="abhishekshrmarj" /></a> </p>
 
-### 🧠 What I Do
-- 👨‍💻 Founder & CEO of **Gamedept Technologies**
-- 📱 Building **Aktbook** – A powerful all-in-one app for students and colleges
-- 🎮 Designing educational & AAA-level games in **Unity**
-- 📈 Creating Reels on **coding, startups, and finance** for 12.8k+ followers
-- 🧠 Winner – Internal **Smart India Hackathon** 2024
+- 🔭 I’m currently working on **Building Aktbook & Making Games**
 
----
+- 🌱 I’m currently learning **- 🔍 Flutter and Firebase for building cross-platform apps like Aktbook - 🧠 Full-stack development to handle backend, APIs, and admin panels - 📊 Data Science with Python (via CodeWithHarry)**
 
-### 🛠️ Tech Stack & Tools
+- 👯 I’m looking to collaborate on **🎮 Game development projects (Unity, C#, multiplayer or educational games)**
 
-- **Languages:** Java, C, C++, Python (Learning), JavaScript (Learning)
-- **Game Development:** Unity Engine, C#, Blender (basic), Photoshop
-- **Mobile App Dev:** Flutter (Learning), Firebase (Basic Integration)
-- **Web:** HTML, CSS, JavaScript (Learning React)
-- **Tools:** Git, GitHub, VS Code, Canva, Figma, CapCut
+- 🤝 I’m looking for help with **🔍 Improving my skills in Flutter and full-stack app development 👨‍💼 Finding **mentors or advisors** in game dev, edtech, or business growth**
 
----
+- 💬 Ask me about **- 🎮 Game development (beginner to intermediate) - 📱 Building student-focused apps (like Aktbook) - 🚀 Starting and scaling a tech startup as a student**
 
-### 📚 Currently Learning
+- 📫 How to reach me **abhisheksharmarj5@gmail.com**
 
-- 🔥 **Data Science** (via CodeWithHarry)
-- 🔥 **Java** (OOPs, DSA, GUI)
-- 🔥 **Spoken English & Communication**
-- 🔥 **Content Creation Strategy for Instagram & YouTube**
-- 🔥 **App Development for Aktbook** (Full-stack approach)
-- 🔥 **Business & Startup Strategy**
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://twitter.com/abhishekshrmarj" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="abhishekshrmarj" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/abhisheksharmarj" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="abhisheksharmarj" height="30" width="40" /></a>
+<a href="https://instagram.com/aktbook" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="aktbook" height="30" width="40" /></a>
+<a href="https://www.youtube.com/c/aktbook" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="aktbook" height="30" width="40" /></a>
+</p>
 
----
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> <a href="https://www.blender.org/" target="_blank" rel="noreferrer"> <img src="https://download.blender.org/branding/community/blender_community_badge_white.svg" alt="blender" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://canvasjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/Hardik0307/Hardik0307/master/assets/canvasjs-charts.svg" alt="canvasjs" width="40" height="40"/> </a> <a href="https://www.chartjs.org" target="_blank" rel="noreferrer"> <img src="https://www.chartjs.org/media/logo-title.svg" alt="chartjs" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a> <a href="https://d3js.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/d3js/d3js-original.svg" alt="d3js" width="40" height="40"/> </a> <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="40" height="40"/> </a> <a href="https://dotnet.microsoft.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original-wordmark.svg" alt="dotnet" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://flask.palletsprojects.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="flask" width="40" height="40"/> </a> <a href="https://flutter.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://grafana.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/grafana/grafana-icon.svg" alt="grafana" width="40" height="40"/> </a> <a href="https://www.elastic.co/kibana" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/elasticco_kibana/elasticco_kibana-icon.svg" alt="kibana" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mathworks.com/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="matlab" width="40" height="40"/> </a> <a href="https://opencv.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://pytorch.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/> </a> <a href="https://www.ruby-lang.org/en/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ruby/ruby-original.svg" alt="ruby" width="40" height="40"/> </a> <a href="https://sass-lang.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> </a> <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> <a href="https://unity.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="unity" width="40" height="40"/> </a> <a href="https://unrealengine.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/kenangundogan/fontisto/036b7eca71aab1bef8e6a0518f7329f13ed62f6b/icons/svg/brand/unreal-engine.svg" alt="unreal" width="40" height="40"/> </a> </p>
 
-### 🧩 Projects
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=abhisheksharmarj&show_icons=true&locale=en&layout=compact" alt="abhisheksharmarj" /></p>
 
-- 🎯 [Aktbook App](#): A QR-integrated app for student learning, community, academics, and admin tools.
-- 🕹️ [Educational Game System](#): A Unity-based system with QR code login for gamified learning.
-- 🚧 Gamedept Projects – Ongoing development of **fighting game**, **mini-games**, and **internship-led productions**.
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=abhisheksharmarj&show_icons=true&locale=en" alt="abhisheksharmarj" /></p>
 
----
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=abhisheksharmarj&" alt="abhisheksharmarj" /></p>
 
-### 🏆 Achievements
-
-- 🏅 **Smart India Hackathon Internal Winner**
-- 🧠 Successfully organized and led a **2-month internship** under Gamedept Technologies
-- 🧠 Conceptualized multiple tech startups before 2nd year of engineering
-
----
-
-### 📈 Goals
-
-- 💸 Become a **successful tech entrepreneur & billionaire**
-- 🔥 Build India’s first student-made AAA game
-- 📚 Help young developers grow through community, content & mentorship
-- 🌍 Launch **Aktbook** across Indian colleges
-
----
-
-### 🔗 Let's Connect
-
-- 🌐 [LinkedIn](https://linkedin.com) *(add your real link)*
-- 🐦 [Twitter/X](https://twitter.com) *(add your handle)*
-- 📸 [Instagram](https://instagram.com/aktbook) *(or personal)*
-- 🧠 [YouTube](https://youtube.com) *(if any)*
-
----
-
-### ⚡ Fun Fact
-
-> "Coding is my weapon. Startup is my battlefield. Success is non-negotiable."
-
----
-
-_This README is just the beginning — just like me. The journey has just started, and there's a lot more to come._
